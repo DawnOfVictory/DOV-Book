@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [DOV-Book](<README (1).md>)
+* [DOV-Book](README.md)
+* [Introduction](<README (1).md>)
 
 ## Asset Description
 
