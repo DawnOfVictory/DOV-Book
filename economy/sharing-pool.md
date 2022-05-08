@@ -4,7 +4,13 @@ All utilities consumption goes into dedicated pools. Schema below describes Fuel
 
 On monthly basis collecting pool is splitted following the repartition displayed in this table. Sharing pool percentage is fixed, others may vary depending on the control needed.
 
-<table><thead><tr><th>Pools</th><th>Perc %</th><th>Description</th><th data-type="number">Value</th></tr></thead><tbody><tr><td>Game Pool</td><td>g%</td><td>Send back to smart contract to be delivered to Producers</td><td>40</td></tr><tr><td>Team Pool</td><td>t%</td><td>Team cut on production for devs and marketing</td><td>10</td></tr><tr><td>Sharing Pool</td><td>s%</td><td>Rewards split among Owners</td><td>40</td></tr><tr><td>Charity Pool</td><td>c%</td><td>Charities to be identified</td><td>5</td></tr><tr><td>Burn</td><td>b%</td><td>Utility value control</td><td>5</td></tr></tbody></table>
+| Pools        | Perc % | Description                                              | Value |
+| ------------ | ------ | -------------------------------------------------------- | ----- |
+| Game Pool    | g%     | Send back to smart contract to be delivered to Producers | 45    |
+| Team Pool    | t%     | Team cut on production for devs and marketing            | 10    |
+| Sharing Pool | s%     | Rewards split among Owners                               | 40    |
+| Charity Pool | c%     | Charities to be identified                               | 5     |
+| Burn         | b%     | Utility value control                                    | 0     |
 
 
 
